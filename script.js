@@ -1,6 +1,4 @@
-//your JS code here. If required.
-/your JS code here. If required.
-let list = document.getElementById("band")
+let list = document.getEhttps://www.svgrepo.com/show/345221/three-dots.svglementById("band")
 
 const bands = [
     'Anywhere But Here',
