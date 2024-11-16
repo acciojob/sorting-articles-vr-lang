@@ -1,4 +1,4 @@
-let list = document.getEhttps://www.svgrepo.com/show/345221/three-dots.svglementById("band")
+// let list = document.getEhttps://www.svgrepo.com/show/345221/three-dots.svglementById("band")
 
 const bands = [
     'Anywhere But Here',
