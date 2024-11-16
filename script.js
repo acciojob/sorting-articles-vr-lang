@@ -1,6 +1,6 @@
 // let list = document.getEhttps://www.svgrepo.com/show/345221/three-dots.svglementById("band")
 
-const bands = [
+const band = [
     'Anywhere But Here',
     'The Bled',
     'Counterparts',
@@ -18,7 +18,7 @@ const bands = [
   
 
 
-  for(let item of bands)
+  for(let item of band)
   {
     let listItm = document.createElement("li")
     listItm.innerText = item
